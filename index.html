@@ -6,7 +6,48 @@
 </head>
 <body>
     <script>
-        
+        function computerPlay(){
+            randomNum = Math.floor((Math.random() * 3) + 1);
+            switch(randomNum){
+                case 1:
+                    return "Rock";
+                case 2:
+                    return "Paper";
+                case 3:
+                    return "Scissors";
+            }
+        }
+
+        function playRound(playerSelection, computerSelection){
+            playerSelection = playerSelection.toLowerCase();
+            playerSelection = playerSelection.charAt(0).toUpperCase() + playerSelection.slice(1);
+            if (playerSelection == computerSelection){
+                return "You both rolled "+playerSelection+"! It's a tie!";
+            } else if (playerSelection == "Rock" && computerSelection == "Paper") {
+                return playerSelection+" vs. "+computerSelection+"! You lose!";
+            } else if (playerSelection == "Rock" && computerSelection == "Scissors") {
+                return playerSelection+" vs. "+computerSelection+"! You win!";
+            } else if (playerSelection == "Paper" && computerSelection == "Rock") {
+                return playerSelection+" vs. "+computerSelection+"! You win!";
+            } else if (playerSelection == "Paper" && computerSelection == "Scissors") {
+                return playerSelection+" vs. "+computerSelection+"! You lose!";
+            } else if (playerSelection == "Scissors" && computerSelection == "Rock") {
+                return playerSelection+" vs. "+computerSelection+"! You lose!";
+            } else if (playerSelection == "Scissors" && computerSelection == "Paper") {
+                return playerSelection+" vs. "+computerSelection+"! You win!";
+            }
+        }
+
+        function game(){
+            for (let i=0; i<5; i++){
+                var playerSelection = prompt("Enter your choice");
+                var computerSelection = computerPlay();
+                alert(playRound(playerSelection, computerSelection));
+            }
+        }
+
+        game();
+
     </script>
 </body>
 </html>
