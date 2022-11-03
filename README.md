@@ -1,3 +1,5 @@
-# foundations-rps
+# rock-paper-scissors
 
-The Odin Project, Foundations, Javascript, Rock-Paper-Scissors
+Project: Rock Paper Scissors <br>
+The Odin Project <br>
+Foundations Course
