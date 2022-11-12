@@ -1,5 +1,11 @@
-# rock-paper-scissors
+## ~ rock-paper-scissors ~
+<p>The third project from TheOdinProject (Foundations Course).</p>
+<p></p>
 
-Project: Rock Paper Scissors <br>
-The Odin Project <br>
-Foundations Course
+## Tech Used:
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+## Links:
+- [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
+
+## Screenshots:
