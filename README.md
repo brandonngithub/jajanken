@@ -12,6 +12,7 @@ A best of five rock, paper, scissors game programmed with HTML, CSS, and JavaScr
 - Git and GitHub
 
 ## Links:
+- [LIVE DEMO](https://brandonngithub.github.io/rock-paper-scissors/)
 - [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
 
 ## Screenshots:
