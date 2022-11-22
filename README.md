@@ -8,6 +8,8 @@ A best of five rock, paper, scissors game programmed with HTML, CSS, and JavaScr
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- UNIX terminal
+- Git and GitHub
 
 ## Links:
 - [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
