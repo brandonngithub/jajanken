@@ -1,7 +1,7 @@
 ## ~ rock-paper-scissors ~
 <p>The third project from TheOdinProject (Foundations Course).</p>
 <p>
-A best of five rock, paper, scissors game programmed with HTML, CSS, and JavaScript. The purpose of this assignment is to demonstrate basic Javascript skills in combination with HTML and CSS. A useful skill I learned in doing this project is how to manipulate the DOM using JavaScript.
+A best of five rock, paper, scissors game programmed with HTML, CSS, and JavaScript. The purpose of this assignment is to demonstrate basic JavaScript skills in combination with HTML and CSS. A useful skill I learned in doing this project is how to manipulate the DOM using JavaScript.
 </p>
 
 ## Tech Used:
