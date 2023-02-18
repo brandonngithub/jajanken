@@ -1,5 +1,6 @@
 ## ~ jajanken ~
 ![](https://media.tenor.com/466BdlkoGq8AAAAC/jajanken-cartoon.gif)
+<br>
 [LIVE DEMO](https://brandonngithub.github.io/jajanken/)
 <p>The purpose of this assignment is to demonstrate basic JavaScript skills in combination with HTML and CSS. A useful skill I learned in doing this project is how to manipulate the DOM using JavaScript.</p>
 
