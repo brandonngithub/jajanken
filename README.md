@@ -2,7 +2,7 @@
 [LIVE DEMO](https://brandonngithub.github.io/jajanken/)
 <br>
 ![](https://media.tenor.com/466BdlkoGq8AAAAC/jajanken-cartoon.gif)
-<p>The purpose of this assignment is to demonstrate basic JavaScript skills in combination with HTML and CSS. A useful skill I learned in doing this project is how to manipulate the DOM using JavaScript.</p>
+<p>Jajanken is a move used by Gon, a character in the Hunter x Hunter anime. The name of the move is similar to 'Janken' which is rock, paper, scissors in Japanese. The purpose of this assignment is to demonstrate basic JavaScript skills in combination with HTML and CSS. A useful skill I learned in doing this project is how to manipulate the DOM using JavaScript.</p>
 
 ## Tech Used:
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
