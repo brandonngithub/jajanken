@@ -12,4 +12,4 @@
 - Git
 
 ## Screenshots:
-<img width="1440" alt="1" src="https://user-images.githubusercontent.com/91623674/201556939-d310531d-9219-436a-af34-458308c49fab.png">
+<img width="1440" alt="Screenshot 2023-02-18 at 7 58 52 PM" src="https://user-images.githubusercontent.com/91623674/219906361-cef7359d-d6a1-4c9f-84a1-c4a756c8be07.png">
